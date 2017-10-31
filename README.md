@@ -1,2 +1,2 @@
 # hello-world
-Try it!
+I just wanna try the hello world!
